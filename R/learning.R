@@ -1,3 +1,5 @@
+#When a conflict happens.
+
 #Testing Git
 
 10
